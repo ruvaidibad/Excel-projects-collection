@@ -22,7 +22,6 @@ Data formatting and cell styling
 
 Table creation and sorting
 
-Charting (bar or pie charts)
 
 Basic financial planning
 
