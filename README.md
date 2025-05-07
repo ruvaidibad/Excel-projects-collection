@@ -28,7 +28,6 @@ This repository contains a collection of Excel-based projects that demonstrate m
 - PivotTables & Charts
 - VLOOKUP, INDEX-MATCH, IF, SUMIFS, COUNTIFS
 - Data Validation & Conditional Formatting
-- Macros (in some projects)
 - Dashboard Design
 
 ## How to Use
