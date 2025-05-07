@@ -10,16 +10,12 @@ This repository contains a collection of Excel-based projects that demonstrate m
 
 2. *Data Cleaning Project*
    - Raw sales data cleaned using formulas like TRIM, PROPER, TEXT, and filters.
-   - Removed duplicates, standardized formatting, and fixed errors.
+   - Removed duplicates, standardized formatting, and fixed 
 
-3. *Financial Statement Analysis*
-   - Ratio analysis using Excel functions.
-   - Includes Profit & Loss and Balance Sheet models.
-
-4. *Attendance Tracker*
+3. *Attendance Tracker*
    - Automated employee attendance tracker with dropdowns and formulas.
 
-5. *Inventory Management Sheet*
+4. *Inventory Management Sheet*
    - Tracks stock levels, reorder points, and supplier information.
 
 ## Tools & Skills Used
